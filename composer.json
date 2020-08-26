@@ -1,5 +1,5 @@
 {
-    "name": "lightsaml/lightsaml-logout",
+    "name": "andychukse/lightsaml-logout",
     "license": "GPL-3.0+",
     "type": "library",
     "description": "Light SAML2 logout php library",
@@ -11,10 +11,10 @@
     },
     "require": {
         "php": ">=5.5.1",
-        "lightsaml/lightsaml": "*"
+        "forlabs/lightsaml": "~2.0"
     },
     "require-dev": {
-        "phpunit/phpunit": "~4.5",
+        "phpunit/phpunit": "~8.5",
         "monolog/monolog": "~1.3",
         "satooshi/php-coveralls": "~0.6"
     },
