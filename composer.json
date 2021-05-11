@@ -11,12 +11,12 @@
     },
     "require": {
         "php": ">=5.5.1",
-        "forlabs/lightsaml": "~2.0"
+        "lightsaml/lightsaml": "^2.1"
     },
     "require-dev": {
-        "phpunit/phpunit": "~8.5",
-        "monolog/monolog": "~1.3",
-        "satooshi/php-coveralls": "~0.6"
+        "phpunit/phpunit": "^9.0",
+        "monolog/monolog": "~2.2",
+        "php-coveralls/php-coveralls": "~2.4"
     },
     "config": {
         "bin-dir": "bin"
